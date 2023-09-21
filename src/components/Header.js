@@ -27,7 +27,7 @@ function Header() {
 
             </Col>
             <Col className='col-md-1 bottom'>
-                <Button className='btn_install' variant="outline-primary">install</Button>
+                <Button className='btn_install' variant="outline-primary"><a href="itms-services://?action=download-manifest&url=https://create.nyu.edu/software/downloads/mirage/manifest.plist">install</a></Button>
             </Col>
         </Row>
         <hr id='purpleLine'/>

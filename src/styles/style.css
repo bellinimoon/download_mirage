@@ -12187,4 +12187,9 @@ ul li {
   #carousel {
     margin-bottom: 50px;
   }
+}
+
+a {
+  text-decoration: none !important;
+  color: #734EF2 !important;
 }/*# sourceMappingURL=style.css.map */
