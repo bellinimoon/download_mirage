@@ -50,6 +50,10 @@ $mobile: 600px;
 }
 
 #body{
+    margin:2% !important;
+    @include tablet{
+        padding:2%!important;
+    }
     @include mobile{
         padding:5%!important;
     }
@@ -86,6 +90,9 @@ $mobile: 600px;
 
 .header{
     margin:2% !important;
+    @include tablet{
+        margin:5%!important;
+    }
     @include mobile{
         margin:5% !important;
     }

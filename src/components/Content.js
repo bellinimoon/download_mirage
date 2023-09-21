@@ -18,7 +18,7 @@ import  M6 from '../visuals/M6.png';
 function Content() {
     return (
         <div id='body'>
-            <Col className='col-md-9 centerCol'>
+            <Col className='col-md-10 centerCol'>
                 <Row className='subTitle'>
                     <h3>ABOUT</h3>
                 </Row>
